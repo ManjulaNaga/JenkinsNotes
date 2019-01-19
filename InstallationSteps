@@ -9,3 +9,9 @@ key is found at /users/shared/enkins/home/secret/InitialAdminPassword
 
 Uninstall command:
 $sudo /Library/Application\ Support/Jenkins/Uninstall.command
+
+
+Install Maven plugin
+
+Download maven from https://maven.apache.org/download.cgi
+then Manage Jenkins>Manage plugins>available >maven integration install
