@@ -1,6 +1,6 @@
 # Installation steps:
 
-###Jenkins install and uninstall:
+### Jenkins install and uninstall:
 
 Downoad Jenkins from 
 https://jenkins.io/download/
@@ -9,7 +9,7 @@ after completion of installation it redirects to localhost:/8080 with username a
 Unlock the access with key:
 key is found at /users/shared/enkins/home/secret/InitialAdminPassword
 
-###Uninstall command:
+### Uninstall command:
 $sudo /Library/Application\ Support/Jenkins/Uninstall.command
 
 
