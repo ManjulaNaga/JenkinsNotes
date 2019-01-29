@@ -17,3 +17,7 @@ Install Maven plugin
 
 Download maven from https://maven.apache.org/download.cgi
 then Manage Jenkins>Manage plugins>available >maven integration install
+
+SonarQube Installation:
+
+https://www.howtoforge.com/how-to-install-sonarqube-on-ubuntu-1804/
